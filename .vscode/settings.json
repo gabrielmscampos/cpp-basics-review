@@ -48,5 +48,6 @@
     },
     "code-runner.executorMap": {
         "cpp": "cd $dir && g++ $fileName -o $fileNameWithoutExt.out && $dir$fileNameWithoutExt.out"
-     }
+    },
+    "code-runner.runInTerminal": true
 }
