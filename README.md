@@ -1,2 +1,3 @@
 # cpp-review
-Reviewing C++ with Bro Code
+
+Repository dedicated to review C++ following [Bro Code Course](https://www.youtube.com/watch?v=-TkoO8Z07hI).
