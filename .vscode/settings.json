@@ -45,7 +45,9 @@
         "stdexcept": "cpp",
         "streambuf": "cpp",
         "typeinfo": "cpp",
-        "ctime": "cpp"
+        "ctime": "cpp",
+        "iomanip": "cpp",
+        "sstream": "cpp"
     },
     "code-runner.executorMap": {
         "cpp": "cd $dir && g++ $fileName -o $fileNameWithoutExt.out && $dir$fileNameWithoutExt.out"
